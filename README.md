@@ -1,5 +1,3 @@
-![Binaryhood](Logo/BinaryhoodLogo.png)
-
 # ChatBot
 
 ## Installation & Setup
